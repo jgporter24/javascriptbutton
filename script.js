@@ -1,5 +1,3 @@
-var 
-
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
@@ -14,15 +12,3 @@ function writePassword() {
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
-
-
-
-
-
-
-//var password
-
-
-function genPassword () {
-    //var passwordLength = prompt ("Please select length ")
-}
