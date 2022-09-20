@@ -1,5 +1,4 @@
 // Assignment Code
-//var specialCharacters = "!@#$%*()";
 var generateBtn = document.querySelector("#generate");
 generateBtn.addEventListener("click", writePassword)
 // Write password to the #password input
