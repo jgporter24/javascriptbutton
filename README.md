@@ -2,7 +2,7 @@
 This is a basic javascript 
 
 ## Description
-This password generator is for use when you would like to create a password that require specific criteria. Using JavaScript once you click the generate password button you will be gretted with prompts to input and select whether or not you want specific items in your password. Options you will have are below:
+This password generator is for use when you would like to create a password that require specific criteria. Using JavaScript once you click the generate password button you will be gretted with prompts to input and select whether or not you want specific items in your password. Notice that if you do not meet certain criteria such as password length you will be prompted to start over. Options you will have are below:
 
 - Password length
 - Upper case letters 
@@ -21,3 +21,7 @@ Below are snippets of what the page looks like before clicking the generate butt
 
 ## Usage
 The elements behind this page are important functions for helping a user create a random password that meet specific criterias. 
+
+## Thank You
+
+@tutors and peers for the help on this assignment! 
